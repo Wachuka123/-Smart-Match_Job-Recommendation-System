@@ -3,13 +3,7 @@
 
 ## List of contributors:
     Names	                           
-    1. Monicah Mwangi                
-    2. Wachuka R. Kinyanjui          
-    3. Caleb Asati                           
-    4. Diana Mbuvi                   
-    5. Shilton Soi                   
-    4. Lewis Ngunjiri                
-
+     Wachuka R. Kinyanjui         
 
 ***Keywords:*** Job Recommendation System, User Experience, Personalized Job Recommendations, Recruitment Efficiency, Web Application Development, Hiring Process Optimization
 
