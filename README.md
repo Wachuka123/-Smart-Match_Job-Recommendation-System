@@ -2,9 +2,15 @@
 
 
 ## List of contributors:
-    Author                           
- Wachuka R. Kinyanjui          
- 
+    Names	                           
+    1. Monicah Mwangi                
+    2. Wachuka R. Kinyanjui          
+    3. Caleb Asati                           
+    4. Diana Mbuvi                   
+    5. Shilton Soi                   
+    4. Lewis Ngunjiri                
+
+
 ***Keywords:*** Job Recommendation System, User Experience, Personalized Job Recommendations, Recruitment Efficiency, Web Application Development, Hiring Process Optimization
 
 ## Overview
@@ -64,7 +70,7 @@ job_data.csv: Offers further descriptions of job openings, complementing the dat
 ## certain industries favor specific employment types. For example, some industries may have more part-time roles, while others might offer more contract positions.
 ## Certain employment types within industries may offer higher salaries, useful for negotiation and decision-making.
 
-### Data Point
+## Data Point
 
 The dataset primarily analyzes job postings located in California, USA. The dataset includes cities and states within California, such as:
 
@@ -75,7 +81,7 @@ Brisbane
 Larkspur
 San Jose
 
-### Correlation Heatmap
+## Correlation Heatmap
 
 ![image-1](https://github.com/Wachuka123)
 
@@ -88,13 +94,13 @@ This can help job seekers understand industry trends in employment types, aiding
 
 ## Machine Learning
 
-### TF-IDF (Term Frequency-Inverse Document Frequency) Vectorizer
+## TF-IDF (Term Frequency-Inverse Document Frequency) Vectorizer
 
-###  Transformed job descriptions into a numerical format that could be used for further analysis
+##  Transformed job descriptions into a numerical format that could be used for further analysis
 
-### TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer
+## TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer
 
-### Transformed job descriptions into numerical features to enable accurate matching of job seekers with relevant job postings based on textual content.
+## Transformed job descriptions into numerical features to enable accurate matching of job seekers with relevant job postings based on textual content.
 
 ## Model Evaluation
 
@@ -103,12 +109,12 @@ K-Nearest Neighbors (KNN) and
 Singular Value Decomposition (SVD)   Precision: 0.9333333333333332 Recall: 0.35 mrr_value: 1.0 ndcg: 0.5137088609996164
 
                                      
-### The model excels at making highly accurate top recommendations (high precision and perfect MRR)
+## The model excels at making highly accurate top recommendations (high precision and perfect MRR)
 
-### K-Nearest Neighbors (KNN) and Singular Value Decomposition (SVD)
+## K-Nearest Neighbors (KNN) and Singular Value Decomposition (SVD)
 
 
-### Both had a similar score below.   Precision: 0.6
+## Both had a similar score below.   Precision: 0.6
                                       Recall: 1.0
                                       mrr_value: 1.0
                                       ndcg: 1.0
