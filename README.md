@@ -1,8 +1,6 @@
 # SmartMatch: Enhancing Job Search Efficiency through Intelligent Job Recommendation Systems
 
-
-## List of contributors:
-    Names	                           
+## Author	                           
      Wachuka R. Kinyanjui         
 
 ***Keywords:*** Job Recommendation System, User Experience, Personalized Job Recommendations, Recruitment Efficiency, Web Application Development, Hiring Process Optimization
